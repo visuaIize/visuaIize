@@ -1,6 +1,6 @@
 <h1>Jack</h1>
 
-<h2 align="center">Working On:</h2>
+<h2 align="center">Get To Know Me:</h2>
 
 - Jack
 
