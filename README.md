@@ -19,7 +19,7 @@
 
 <h2 align="center">Working On:</h2>
 
-- [HVC 2.0 ⭐](https://discord.gg/hvc5m) *(Semi-RP/Fragging UK FiveM Server [UNDERGOING FULL SERVER REWRITE])*
+- [HVC 2.0 ⭐](https://discord.gg/hvc5m) *(Semi-RP/Fragging UK FiveM Server | UNDERGOING FULL SERVER REWRITE 📝)*
 
 <h2 align="center">Contact Me:</h2>
 
