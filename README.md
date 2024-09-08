@@ -6,7 +6,7 @@
 
 - 16 y/o
 
-- Graduated Secondary School July 2024 & Currently in College Studying Electrical Installation
+- Studying Electrical Instalation
 
 - Code From Time to Time
 
