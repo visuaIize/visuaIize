@@ -17,11 +17,3 @@
 
 - Javascript (August 2024 - Present)
 
-<h2 align="center">Working On:</h2>
-
-- [LVL RP ⚡️](https://discord.gg/lvlrp) *(vRP Based Semi-RP/Fragging UK FiveM Server)*
-
-<h2 align="center">Contact Me:</h2>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1255143785906704445)](https://discord.com/users/1255143785906704445)
-
